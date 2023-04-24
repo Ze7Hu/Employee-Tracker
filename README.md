@@ -28,3 +28,8 @@ Locate the link for the employee-tracker demo here[]
 
 ## Screenshots
 
+<img width="873" alt="Screenshot 2023-04-24 at 15 49 30" src="https://user-images.githubusercontent.com/123417090/234041610-45bf0593-0752-4de5-afbb-49e74d298084.png">
+
+
+<img width="873" alt="Screenshot 2023-04-24 at 15 49 20" src="https://user-images.githubusercontent.com/123417090/234041858-41691e46-578f-4404-8f98-fbc8990273ca.png">
+
